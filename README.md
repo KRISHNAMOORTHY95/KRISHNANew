@@ -4,5 +4,5 @@ A web application built with Streamlit to analyze and manage food wastage using 
 
 ...
 
-👨‍💻 Author: Krish Jayachandran
+👨‍💻 Author: KrishnaMoorthy
 [https://krish.jayachandran.xyz](https://krish.jayachandran.xyz)
