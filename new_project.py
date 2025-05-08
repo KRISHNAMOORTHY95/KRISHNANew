@@ -532,3 +532,4 @@ def main():
         # Create dummy CSV files.
         create_dummy_csv_files()
         load_data_to_db()
+conn.close()
